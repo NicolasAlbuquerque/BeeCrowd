@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EX1003/EX1003.iml" filepath="$PROJECT_DIR$/EX1003/EX1003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex 1008/Ex 1008.iml" filepath="$PROJECT_DIR$/Ex 1008/Ex 1008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1000/Ex1000.iml" filepath="$PROJECT_DIR$/Ex1000/Ex1000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1001/Ex1001.iml" filepath="$PROJECT_DIR$/Ex1001/Ex1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1002/Ex1002.iml" filepath="$PROJECT_DIR$/Ex1002/Ex1002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1004/Ex1004.iml" filepath="$PROJECT_DIR$/Ex1004/Ex1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1005/Ex1005.iml" filepath="$PROJECT_DIR$/Ex1005/Ex1005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1006/Ex1006.iml" filepath="$PROJECT_DIR$/Ex1006/Ex1006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1007/Ex1007.iml" filepath="$PROJECT_DIR$/Ex1007/Ex1007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1009/Ex1009.iml" filepath="$PROJECT_DIR$/Ex1009/Ex1009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1010/Ex1010.iml" filepath="$PROJECT_DIR$/Ex1010/Ex1010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1011/Ex1011.iml" filepath="$PROJECT_DIR$/Ex1011/Ex1011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1012/Ex1012.iml" filepath="$PROJECT_DIR$/Ex1012/Ex1012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1019/Ex1019.iml" filepath="$PROJECT_DIR$/Ex1019/Ex1019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace BeeCrowd.iml" filepath="$PROJECT_DIR$/.idea/workspace BeeCrowd.iml" />
+    </modules>
+  </component>
+</project>
